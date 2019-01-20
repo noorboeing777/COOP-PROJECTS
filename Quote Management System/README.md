@@ -1,1 +1,3 @@
 Sorry guys, my company policy doesnt allow me to share any screenshots for my projects
+
+First Project was to build a Quote Management System for internal users to generate quotes. In this project, we worked in a team of two people where I Contributed to designing efficient data structure and wrote compatibility check algorithm using JavaScript to perform complex checks between machine vision cameras and its related accessories. Also for UI, I designed a robust user interface using bootstrap and CSS3 which allowed drag and drop of cameras and computers to automatically sort compatible attachments. I used Node.js, Express.js, and SQLite for server-side development. In the End, this application has led to a reduction in quote production time by 20 minutes
